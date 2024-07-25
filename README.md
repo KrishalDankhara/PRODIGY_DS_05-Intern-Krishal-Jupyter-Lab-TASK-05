@@ -6,7 +6,7 @@ US Accident Data Analysis --> https://github.com/user-attachments/assets/440b027
 
 #### Project Description
 
-This project focuses on analyzing traffic accident data to identify patterns related to road conditions, weather, and time of day, as well as visualizing accident hotspots. The dataset used is the "UK Road Safety Data" available on Kaggle, which provides comprehensive records of traffic accidents in the UK.
+This project focuses on analyzing traffic accident data to identify patterns related to road conditions, weather, and time of day, as well as visualizing accident hotspots. The dataset used is the "US Road Safety Data" available on Kaggle, which provides comprehensive records of traffic accidents in the US.
 
 #### Key Highlights
 
